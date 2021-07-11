@@ -1,0 +1,17 @@
+.personImage {
+  width: 4rem !important;
+  /* border: 1px solid black; */
+  /* border-radius: 50% !important; */
+}
+.personDetails {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.personAge {
+  color: #607d99;
+}
+
+.personName {
+  color: #102a43;
+}
